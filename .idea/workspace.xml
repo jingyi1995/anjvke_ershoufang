@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="596ca446-0ac5-4a49-bdf9-477c6d5bfa3c" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ershoufang$normalization.coverage" NAME="normalization Coverage Results" MODIFIED="1553059773112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Code/untitled" />
+    <SUITE FILE_PATH="coverage/ershoufang$test.coverage" NAME="test Coverage Results" MODIFIED="1567313580088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ershoufang/spiders" />
+    <SUITE FILE_PATH="coverage/ershoufang$ershoufang.coverage" NAME="ershoufang Coverage Results" MODIFIED="1564818047468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ershoufang/spiders" />
+    <SUITE FILE_PATH="coverage/ershoufang$boxplot_1_.coverage" NAME="boxplot(1) Coverage Results" MODIFIED="1553087458709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/boxplot/boxplot" />
+    <SUITE FILE_PATH="coverage/ershoufang$testRe.coverage" NAME="testRe Coverage Results" MODIFIED="1582525958910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ershoufang/spiders" />
+    <SUITE FILE_PATH="coverage/ershoufang$start_urls___.coverage" NAME="start_urls - 副本 Coverage Results" MODIFIED="1567776647611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1869519856">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1017" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1017" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="128738690">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1006" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1006" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="42" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2002315561">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="4" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="760" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="760" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1782323736">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ershoufang" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ershoufang/spiders/ershoufang.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="66" lean-forward="true" selection-start-line="50" selection-end-line="66" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ershoufang/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2967">
+              <caret line="131" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="e#167#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ershoufang/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ershoufang/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ershoufang/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="C:/scrapy/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="D:/Code/untitled/normalization.py" />
+        <option value="C:/boxplot/boxplot/boxplot(1).py" />
+        <option value="$PROJECT_DIR$/../../../start_urls - 副本.py" />
+        <option value="C:/sy_texi/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/hunnan/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/huanggu/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/shenhe/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/heping/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/dadong/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/shenbei/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="$PROJECT_DIR$/ershoufang/spiders/test.py" />
+        <option value="C:/daowai/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/songbei/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/pingfang/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/echeng/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/hulan/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+        <option value="C:/AJKESF(1)/AJKESF/AJKESF/middlewares.py" />
+        <option value="C:/AJKESF2/AJKESF/AJKESF/middlewares.py" />
+        <option value="$PROJECT_DIR$/ershoufang/spiders/testRe.py" />
+        <option value="C:/AJKESF2/AJKESF/AJKESF/pipelines.py" />
+        <option value="C:/AJKESF(1)/AJKESF/AJKESF/spiders/AJK.py" />
+        <option value="C:/AJKESF2/AJKESF/AJKESF/settings.py" />
+        <option value="C:/AJKESF(1)/AJKESF/AJKESF/settings.py" />
+        <option value="C:/AJKESF2/AJKESF/AJKESF/items.py" />
+        <option value="C:/AJKESF2/AJKESF/AJKESF/spiders/AJK.py" />
+        <option value="$PROJECT_DIR$/ershoufang/spiders/ershoufang.py" />
+        <option value="$PROJECT_DIR$/ershoufang/middlewares.py" />
+        <option value="$PROJECT_DIR$/ershoufang/settings.py" />
+        <option value="$PROJECT_DIR$/ershoufang/items.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="anjvke_spiders" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anjvke_spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="anjvke_spiders" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anjvke_spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="ershoufang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testRe">
+    <configuration name="boxplot(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ershoufang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/boxplot/boxplot" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/boxplot/boxplot/boxplot(1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ershoufang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ershoufang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ershoufang/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ershoufang/spiders/ershoufang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start_urls - 副本" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ershoufang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../start_urls - 副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ershoufang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ershoufang/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ershoufang/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testRe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ershoufang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ershoufang/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ershoufang/spiders/testRe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.start_urls - 副本" />
+      <item itemvalue="Python.boxplot(1)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ershoufang" />
+      <item itemvalue="Python.testRe" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testRe" />
+        <item itemvalue="Python.start_urls - 副本" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.ershoufang" />
+        <item itemvalue="Python.boxplot(1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596ca446-0ac5-4a49-bdf9-477c6d5bfa3c" name="默认的" comment="" />
+      <created>1539934407535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539934407535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50070924" side_tool="true" weight="0.14878398" />
+      <window_info id="Favorites" order="1" sideWeight="0.5010571" side_tool="true" weight="0.14878398" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4989429" visible="true" weight="0.23726542" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2407932" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32935917" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.50070924" side_tool="true" weight="0.14878398" />
+      <window_info id="Favorites" order="1" sideWeight="0.5010571" side_tool="true" weight="0.14878398" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4989429" visible="true" weight="0.121983916" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2407932" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32935917" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="找到" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32908848" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/ganji_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/scrapy/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/boxplot/boxplot/boxplot.py" />
+    <entry file="file://C:/boxplot/boxplot/boxplot(1).py" />
+    <entry file="file://D:/Code/untitled/normalization.py" />
+    <entry file="file://D:/Code/untitled/onehot.py" />
+    <entry file="file://D:/Code/untitled/check.py" />
+    <entry file="file://D:/Code/untitled/clearblock.py" />
+    <entry file="file://D:/Code/untitled/drop.py" />
+    <entry file="file://$PROJECT_DIR$/ershoufang/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/spiders/cityAnjuke.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/spiders/__init__.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/spiders/startURL.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/spiders/startURL_quanguo.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/spiders/xinfangAnjuke.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/pipelines.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/items.py" />
+    <entry file="file://C:/sy_texi/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/hunnan/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/huanggu/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/shenhe/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/heping/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/dadong/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/shenbei/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/daowai/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/songbei/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/pingfang/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/echeng/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/hulan/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://C:/爬虫(1)/anjvke_es_2wu/anjvke_esf/ershoufang/ershoufang/spiders/ershoufang.py" />
+    <entry file="file://$PROJECT_DIR$/ershoufang/spiders/test.py" />
+    <entry file="file://$PROJECT_DIR$/../../../start_urls - 副本.py" />
+    <entry file="file://C:/Fang_Scrapy-master/SpiderAnjuke/SpiderAnjuke/spiders/ershoufangAnjuke.py" />
+    <entry file="file://C:/AJKESF2/AJKESF/AJKESF/pipelines.py" />
+    <entry file="file://C:/AJKESF2/AJKESF/AJKESF/middlewares.py" />
+    <entry file="file://C:/AJKESF(1)/AJKESF/AJKESF/middlewares.py" />
+    <entry file="file://C:/AJKESF2/AJKESF/AJKESF/items.py" />
+    <entry file="file://C:/AJKESF(1)/AJKESF/AJKESF/spiders/AJK.py" />
+    <entry file="file://C:/AJKESF2/AJKESF/AJKESF/spiders/AJK.py" />
+    <entry file="file://C:/AJKESF2/AJKESF/AJKESF/settings.py" />
+    <entry file="file://C:/AJKESF(1)/AJKESF/AJKESF/settings.py" />
+    <entry file="file://$PROJECT_DIR$/ershoufang/spiders/testRe.py" />
+    <entry file="file://D:/Code/data/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1483" />
+      </provider>
+    </entry>
+    <entry file="file://C:/AJK.py" />
+    <entry file="file://$PROJECT_DIR$/ershoufang/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ershoufang/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ershoufang/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2967">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#167#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ershoufang/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ershoufang/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ershoufang/spiders/ershoufang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="66" lean-forward="true" selection-start-line="50" selection-end-line="66" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
